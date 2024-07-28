@@ -4,7 +4,7 @@
  * en_us language for the AstimPay gateway.
  */
 // Basics
-$lang['AstimPay.name'] = 'BD Payment Methods';
+$lang['AstimPay.name'] = 'AstimPay BD Payment Methods';
 $lang['AstimPay.description'] = 'AstimPay offers a range of payment automation solutions for small entrepreneurs in Bangladesh.';
 
 // Errors

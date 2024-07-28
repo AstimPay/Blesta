@@ -18,7 +18,7 @@ To activate the AstimPay gateway, follow these steps:
 
 1. Go to `Blesta > Settings > Payment Gateways > Available`.
 
-2. Find "BD Payment Methods" from the list.
+2. Find "AstimPay BD Payment Methods" from the list.
 
 3. Click on "Install."
 
