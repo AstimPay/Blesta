@@ -1,0 +1,15 @@
+{
+	"version": "1.0.0",
+	"name": "AstimPayInt.name",
+	"description": "AstimPayInt.description",
+	"authors": [
+		{
+			"name": "AstimPay Team",
+			"url": "https://astimpay.com"
+		}
+	],
+	"currencies": [
+		"BDT", "USD"
+	],
+	"signup_url": "https://astimpay.com"
+}
